@@ -3,9 +3,10 @@ package nsq_utils
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/bitly/go-nsq"
 	"sync/atomic"
 	"time"
+
+	"github.com/nsqio/go-nsq"
 	//"strconv"
 )
 

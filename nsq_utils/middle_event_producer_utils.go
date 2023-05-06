@@ -2,8 +2,9 @@ package nsq_utils
 
 import (
 	"fmt"
-	"github.com/bitly/go-nsq"
 	"time"
+
+	"github.com/nsqio/go-nsq"
 	//"strconv"
 )
 
