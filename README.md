@@ -1,1 +1,0 @@
-# ziipin-flume_taildir
